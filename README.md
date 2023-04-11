@@ -1,19 +1,8 @@
-# cob204530804e71b37a19fd2f
+# Travel Journal Project
 
-Quick start:
+## Purpose Of Project
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+To design a travel journal through React and have dynamic loading of additional information
 
 ## About Scrimba
 
